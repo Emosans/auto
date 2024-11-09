@@ -1,0 +1,14 @@
+C:\Users\shrey\OneDrive\Documents\taskauto\bin\Debug\net8.0-windows\taskauto.exe
+C:\Users\shrey\OneDrive\Documents\taskauto\bin\Debug\net8.0-windows\taskauto.deps.json
+C:\Users\shrey\OneDrive\Documents\taskauto\bin\Debug\net8.0-windows\taskauto.runtimeconfig.json
+C:\Users\shrey\OneDrive\Documents\taskauto\bin\Debug\net8.0-windows\taskauto.dll
+C:\Users\shrey\OneDrive\Documents\taskauto\bin\Debug\net8.0-windows\taskauto.pdb
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.AssemblyInfoInputs.cache
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.AssemblyInfo.cs
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.csproj.CoreCompileInputs.cache
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.dll
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\refint\taskauto.dll
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.pdb
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\taskauto.genruntimeconfig.cache
+C:\Users\shrey\OneDrive\Documents\taskauto\obj\Debug\net8.0-windows\ref\taskauto.dll
